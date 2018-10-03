@@ -31,7 +31,8 @@ fun main(args: Array<String>) {
 
     var res = "OMGHAI!\n"
 
-    val items = arrayOf(Item("+5 Dexterity Vest", 10, 20), //
+    val items = arrayOf(
+            Item("+5 Dexterity Vest", 10, 20), //
             Item("Aged Brie", 2, 0), //
             Item("Elixir of the Mongoose", 5, 7), //
             Item("Elixir of the Mongoose", -1, 7), //
